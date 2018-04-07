@@ -1,0 +1,6 @@
+{
+    "AUTHOR" : "Zizzeren",
+    "DESCRIPTION" : "Collects detailed stats about command usage.",
+    "DISABLED" : false,
+    "NAME" : "stats"
+}

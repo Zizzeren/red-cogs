@@ -1,0 +1,6 @@
+{
+    "AUTHOR" : "Zizzeren",
+    "DESCRIPTION" : "Automatically provide some info on new members",
+    "DISABLED" : false,
+    "NAME" : "autoinfo"
+}

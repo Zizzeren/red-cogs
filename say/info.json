@@ -1,0 +1,6 @@
+{
+    "AUTHOR" : "Zizzeren",
+    "DESCRIPTION" : "Make your bot say stuff or execute commands in other channels (or the same one).",
+    "DISABLED" : false,
+    "NAME" : "say"
+}

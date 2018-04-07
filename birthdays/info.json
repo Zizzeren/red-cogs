@@ -1,0 +1,6 @@
+{
+    "AUTHOR" : "Zizzeren",
+    "DESCRIPTION" : "A fork of  https://github.com/ZeLarpMaster/ZeCogs/tree/master/birthdays that limits visible birthdays to members in the current server.",
+    "DISABLED" : false,
+    "NAME" : "birthdays"
+}

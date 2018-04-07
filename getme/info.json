@@ -1,0 +1,6 @@
+{
+    "AUTHOR" : "Zizzeren",
+    "DESCRIPTION" : "Allows users to get to the bot's server.",
+    "DISABLED" : false,
+    "NAME" : "getme"
+}

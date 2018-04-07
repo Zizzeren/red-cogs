@@ -1,0 +1,6 @@
+{
+    "AUTHOR" : "Zizzeren",
+    "DESCRIPTION" : "Sets repeating reminders, like the remindme.py in TwentySix26's Red-Cogs repo.",
+    "DISABLED" : false,
+    "NAME" : "Sets up repeating reminders."
+}

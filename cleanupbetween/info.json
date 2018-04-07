@@ -1,0 +1,6 @@
+{
+    "AUTHOR" : "Zizzeren",
+    "DESCRIPTION" : "Delete messages between two specified messages",
+    "DISABLED" : false,
+    "NAME" : "cleanupbetween"
+}

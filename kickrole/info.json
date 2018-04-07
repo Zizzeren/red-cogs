@@ -1,0 +1,6 @@
+{
+    "AUTHOR" : "Zizzeren",
+    "DESCRIPTION" : "Allows kicking all members with a role, and removing a role from all users that have it. Forked from https://github.com/palmtree5/palmtree5-cogs/blob/master/banrole",
+    "DISABLED" : false,
+    "NAME" : "kickrole"
+}

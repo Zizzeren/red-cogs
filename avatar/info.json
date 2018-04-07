@@ -1,0 +1,6 @@
+{
+    "AUTHOR" : "Zizzeren",
+    "DESCRIPTION" : "Gets a user's avatar",
+    "DISABLED" : false,
+    "NAME" : "avatar"
+}

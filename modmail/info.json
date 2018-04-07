@@ -1,0 +1,6 @@
+{
+    "AUTHOR" : "Zizzeren",
+    "DESCRIPTION" : "Lets members send anonymous modmail to admins of servers they're in.",
+    "DISABLED" : false,
+    "NAME" : "modmail"
+}

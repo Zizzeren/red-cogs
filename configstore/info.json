@@ -1,0 +1,6 @@
+{
+    "AUTHOR" : "Zizzeren",
+    "DESCRIPTION" : "Stores Steam Controller configs.",
+    "DISABLED" : false,
+    "NAME" : "configstore"
+}

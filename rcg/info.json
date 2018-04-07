@@ -1,0 +1,6 @@
+{
+    "AUTHOR" : "Zizzeren",
+    "DESCRIPTION" : "Interface for the Cyanide and Happiness random comic generator, http://explosm.net/rcg",
+    "DISABLED" : false,
+    "NAME" : "rcg"
+}

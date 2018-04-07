@@ -1,0 +1,6 @@
+{
+    "AUTHOR" : "Zizzeren",
+    "DESCRIPTION" : "Adds an unban command, which logs to the same log as the mod cog.",
+    "DISABLED" : false,
+    "NAME" : "unban"
+}

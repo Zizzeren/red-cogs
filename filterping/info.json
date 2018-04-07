@@ -1,0 +1,6 @@
+{
+    "AUTHOR" : "Zizzeren",
+    "DESCRIPTION" : "Pings specified members when certain phrases are said. Does not delete messages.",
+    "DISABLED" : false,
+    "NAME" : "filterping"
+}

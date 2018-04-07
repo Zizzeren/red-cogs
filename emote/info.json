@@ -1,0 +1,6 @@
+{
+    "AUTHOR" : "Zizzeren",
+    "DESCRIPTION" : "Use emotes from other servers. Usable by administrators only.",
+    "DISABLED" : false,
+    "NAME" : "emote"
+}

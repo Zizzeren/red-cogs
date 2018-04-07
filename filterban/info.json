@@ -1,0 +1,6 @@
+{
+    "AUTHOR" : "Zizzeren",
+    "DESCRIPTION" : "Allows automatically banning members after they say filtered words or phrases a few times.",
+    "DISABLED" : false,
+    "NAME" : "filterban"
+}
